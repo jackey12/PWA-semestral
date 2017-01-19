@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bootstrap.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/App/App.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/App/BoardLink.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/App/CodeBlock.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/App/Footer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/App/Index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/App/LoadingSpinner.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/App/TopBar.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Board/Board.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Board/Index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Board/NewThreadButton.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Board/NewThreadsAvailable.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Board/PreviewFields.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Board/Settings.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Board/SettingsButton.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Board/TextFields.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Board/Thread.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Profile/ThreadsStarted.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Thread/DeleteDialog.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Thread/DeletePostDialog.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Thread/LockDialog.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Thread/Post.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Thread/PreviewFields.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Thread/QuoteButton.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Thread/ReplyButton.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Thread/ReplyToThread.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Thread/TextFields.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Thread/UpvoteButton.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/routes.js" charset="UTF-8" />
+  </component>
+</project>
